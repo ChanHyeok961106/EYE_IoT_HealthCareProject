@@ -5,8 +5,8 @@ php, MySQL, Arduino
 ![EYE](https://user-images.githubusercontent.com/34766471/117854668-acf4f180-b2c4-11eb-9016-501967115b9c.png)
 
 
- ### 이름 : EYE
- ### 팀명 : EYE ( 멤버 : 전찬혁, 서종찬, 황지은)
+ ## 이름 : EYE
+ ## 팀명 : EYE ( 멤버 : 전찬혁, 서종찬, 황지은)
  ### 개발환경 : RaspberryPI(MySQL, Apache), Arduino / PHP HTML C++ Arduino
  ### 프로젝트 : 
  ### 헬스케어 시장이 성장하고 있는 흐름에 맞추어 눈을 보호해줄 수 있는 IoT환경을 구축하였습니다
