@@ -14,3 +14,7 @@ php, MySQL, Arduino
  ### 유지 시켜주며 웹에서 사용자가 조도, 습도 값을 원하는 값으로 조정가능합니다
 
 ![캡스톤 팀원들이랑](https://user-images.githubusercontent.com/34766471/117854907-e75e8e80-b2c4-11eb-93ce-2f62d723c7bf.jpg)
+
+![캡스톤 소개1](https://user-images.githubusercontent.com/34766471/117858219-9cdf1100-b2c8-11eb-9d19-9c64c3246e03.jpg)
+
+![캡스톤 수상](https://user-images.githubusercontent.com/34766471/117858227-9ea8d480-b2c8-11eb-9864-25afc3ac8b11.jpg)
