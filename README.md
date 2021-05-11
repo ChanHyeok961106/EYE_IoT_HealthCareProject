@@ -1,6 +1,9 @@
 # EYE_IoT_HealthCareProject
 EYE, RaspberryPI / Arduino ( php, MySQL, Arduino)
 
+![EYE](https://user-images.githubusercontent.com/34766471/117854668-acf4f180-b2c4-11eb-9016-501967115b9c.png)
+
+
  ### 이름 : EYE
  ### 팀명 : EYE ( 멤버 : 전찬혁, 서종찬, 황지은)
  ### 개발환경 : RaspberryPI(MySQL, Apache), Arduino / PHP HTML C++ Arduino
