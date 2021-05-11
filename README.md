@@ -1,5 +1,6 @@
 # EYE_IoT_HealthCareProject
-EYE, RaspberryPI / Arduino ( php, MySQL, Arduino)
+EYE, RaspberryPI / Arduino
+php, MySQL, Arduino
 
 ![EYE](https://user-images.githubusercontent.com/34766471/117854668-acf4f180-b2c4-11eb-9016-501967115b9c.png)
 
